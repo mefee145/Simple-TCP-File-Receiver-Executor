@@ -1,4 +1,3 @@
-```markdown
 # Simple TCP File Receiver & Executor
 
 A lightweight Python-based client that receives files over a TCP socket connection, executes them locally, and performs automatic cleanup.
